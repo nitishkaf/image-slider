@@ -53,13 +53,11 @@ main {
 #prev {
     top: 50%;
     left: 10px;
-    /* transform: translateY(-50%); */
 }
 
 #next {
     top: 50%;
     right: 10px;
-    /* transform: translateY(-50%); */
 }
 
 @media screen and (max-width: 640px) {
